@@ -190,3 +190,20 @@ active {
   }
 
 
+
+@media screen and (max-width:980px) {
+    
+    }
+
+@media screen and (max-width:768px) {
+    .img-container {width: 85%; float: none;}
+    .portfoliobox {height: auto;}
+    width: 75%;
+    }
+
+@media screen and (max-width:640px) {
+    .img-container {width: 100%; float: none;}
+    .image {width: 90%; height: 90%}
+    .portfoliobox {height: auto;}
+    width: 100%;
+    }
